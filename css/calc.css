@@ -1,0 +1,23 @@
+body {
+  background-color: #588529; }
+
+#calc {
+  width: 50%;
+  background-color: #c5d240;
+  margin: auto;
+  border-radius: 5px; }
+  #calc input {
+    width: 22%;
+    margin: 1%;
+    padding: 2%;
+    background-color: #3f614c;
+    font-size: 25px;
+    border-radius: 5px;
+    color: white; }
+  #calc #answer {
+    margin: 2%;
+    width: 90%;
+    height: 15%;
+    background-color: black; }
+
+/*# sourceMappingURL=calc.css.map */
